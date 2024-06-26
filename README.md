@@ -1,4 +1,3 @@
-```markdown
 # Gestión Supermercado
 
 Este es un sistema para gestionar los productos de un supermercado. Implementa una jerarquía de clases que incluye una clase abstracta `Producto` con subclases `Bebida`, `ProductoLimpieza` y `Carne`. Además, utiliza interfaces para representar características especiales de los productos.
@@ -46,7 +45,7 @@ public abstract class Producto {
 
     // Métodos getter y setter
 }
-```
+
 
 #### Subclases de `Producto`
 
